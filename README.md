@@ -53,6 +53,7 @@
 
 
 ## Output:
+![Screenshot 2024-10-19 091410](https://github.com/user-attachments/assets/8fa57734-00b1-4937-9b75-9254242c2e5e)
 
 
 ### Name:
